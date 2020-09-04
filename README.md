@@ -1,2 +1,2 @@
 # AlgoHub
-Solution and Notes for Leetcode
+Solutions and Notes for Leetcode
